@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 
-data.npy
+data/2.npy
+data/3.npy
